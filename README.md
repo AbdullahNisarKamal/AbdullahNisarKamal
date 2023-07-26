@@ -2,7 +2,7 @@
 <h3 align="center">Proud to be a frontend developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 📫 How to reach me **abdullahnisarkml@gmail.com**
+- 📫 How to reach me **abdullahnisarkml@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
